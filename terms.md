@@ -2,7 +2,7 @@ layout: page
 title: "Inkspace Terms"
 permalink: /terms/
 
-**TERMS AND CONDITIONS**
+<!--**TERMS AND CONDITIONS**-->
 
 Terms and Conditions of Inkspace GmbH
 
@@ -10,13 +10,13 @@ These General Terms and Conditions are valid for new customers as of now and for
 
 **1\. General, scope**
 
-1.1 The Inkspace GmbH Address: Schulstra�e 32, 54570 Wallenborn, e-mail: [csc@inkspace.me](mailto:csc@inkspace.me), phone: +49 159 0390445-6 (hereafter Inkspace) provides all deliveries and services solely on the basis of these Terms and Conditions.
+1.1 The Inkspace GmbH Address: Schulstraße 32, 54570 Wallenborn, e-mail: [csc@inkspace.me](mailto:csc@inkspace.me), phone: +49 159 0390445-6 (hereafter Inkspace) provides all deliveries and services solely on the basis of these Terms and Conditions.
 
-1.2 These Terms and Conditions apply to entrepreneurs according to � 14 BGB (German Civil Code) (hereafter business customers) as wells as to consumers according to � 13 BGB (German Civil Code) (hereafter private customers). A consumer is any natural person entering into a legal transaction for a purpose that cannot be attributed to their commercial or to their independent vocational activity.
+1.2 These Terms and Conditions apply to entrepreneurs according to § 14 BGB (German Civil Code) (hereafter business customers) as wells as to consumers according to § 13 BGB (German Civil Code) (hereafter private customers). A consumer is any natural person entering into a legal transaction for a purpose that cannot be attributed to their commercial or to their independent vocational activity.
 
 1.3 For business users these Terms and Conditions are valid for all future business with Inkspace.
 
-1.4 Terms and Conditions of the business user that differ from Inkspace�s Terms and Conditions completely or in parts are not recognized, unless Inkspace accepts them with a written statement. The Terms and Conditions of Inkspace also apply exclusively if Inkspace unconditionally renders a service in the knowledge of conflicting Terms and Conditions of the customer.
+1.4 Terms and Conditions of the business user that differ from Inkspace's Terms and Conditions completely or in parts are not recognized, unless Inkspace accepts them with a written statement. The Terms and Conditions of Inkspace also apply exclusively if Inkspace unconditionally renders a service in the knowledge of conflicting Terms and Conditions of the customer.
 
 **2\. Conclusion of contract**
 
@@ -35,7 +35,7 @@ Right of withdrawal
 You have the right to cancel this contract within fourteen days without giving any reason. The withdrawal period is fourteen days from the date of contract. To exercise your right of cancellation, you must notify us
 
 Inkspace GmbH  
-Schulstra�e 32  
+Schulstraße 32  
 54570 Wallenborn  
 Germany
 
@@ -63,7 +63,7 @@ Model form for withdrawal
 
 To  
 Inkspace GmbH  
-Schulstra�e 32  
+Schulstraße 32  
 54570 Wallenborn  
 Germany
 
@@ -132,7 +132,7 @@ Date: \\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\\_\\
 
 7.1 Inkspace has the right to limit the maximum size of emails to be sent to an appropriate size. If in the respective service description it is not stated otherwise, the max. email size is 20 MB.
 
-7.2 The sending of emails is inadmissible if it is a mass-mailing to recipients without their consent and/or if it is a promotional email and consent of the recipient is not given even though this is required (hereafter referred to as spam). Proof of consent (see � 7 paragraph 2 UWG (Act Against Unfair Competition)) of each recipient rests with the customer.
+7.2 The sending of emails is inadmissible if it is a mass-mailing to recipients without their consent and/or if it is a promotional email and consent of the recipient is not given even though this is required (hereafter referred to as spam). Proof of consent (see § 7 paragraph 2 UWG (Act Against Unfair Competition)) of each recipient rests with the customer.
 
 7.3 The customer is prohibited to send more than 100 emails per hour per account or to send so-called paid emails or emails that advertise a referral system.
 
